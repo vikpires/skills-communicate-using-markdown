@@ -14,3 +14,7 @@ var myVar = "Hello World!";
 ```python
 my_var = "Hello World!";
 ```
+
+- [X] Study markdown
+- [ ] Outline my portfolio
+- [ ] Check my tasks
